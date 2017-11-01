@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Word_Blacklist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Word_Blacklist_jar</output-path>
+    <root id="archive" name="Word_Blacklist.jar">
+      <element id="module-output" name="Word_Blacklist" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

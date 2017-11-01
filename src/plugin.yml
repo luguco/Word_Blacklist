@@ -1,0 +1,10 @@
+name: Word_Blacklist
+version: 1.0
+author: luguco
+main: me.luguco.word_blacklist.Main
+
+commands:
+  wordblacklist:
+    description: Edit the denied words
+    usage: </command> [add|remove|show] <word>
+    aliases: [wb, wbl]
